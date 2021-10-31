@@ -1,3 +1,7 @@
+/**
+ * Exclamation marks series #8: Move all exclamation marks to the end of the sentence
+ * https://www.codewars.com/kata/57fafd0ed80daac48800019f/solutions/javascript
+ */
 function remove(s) {
     //coding and coding....
     let exclamation = ''
